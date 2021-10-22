@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.773,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.269,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\#3 инст сред\Project1PCH1.h=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\#3 инст сред\Unit1.h=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.923,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\#3 инст сред\Unit1.cpp=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.799,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\#3 инст сред\Project1.cbproj=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\#3 инст сред\Unit1.dfm=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.348,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,=C:\Users\windrunner\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
